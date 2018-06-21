@@ -14,3 +14,5 @@ the one who spent more , by taking money from those who spent less.
 it gives the ability to add , remove roommates.
 
 says specifically , from which user we should collect and to which user you should give money.
+
+it uses file to store usernames
